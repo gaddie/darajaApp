@@ -1,2 +1,2 @@
 <?php
-echo "daraja app";
+echo "my new app";
